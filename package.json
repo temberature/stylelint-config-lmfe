@@ -1,0 +1,16 @@
+{
+  "name": "stylelint-config-lmfe",
+  "version": "1.0.0",
+  "description": "lmfe config for stylelint",
+  "keywords": ["stylelint", "stylelint-config", "standard"],
+  "author": "lmfe",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://git.easecreate.com/lmfe/stylelint-config-lmfe.git"
+  },
+  "main": "index.js",
+  "peerDependencies": {
+    "stylelint": "^8.3.0"
+  }
+}
